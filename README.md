@@ -1,4 +1,4 @@
-<title>How to use:</title>
+How to use:
 
 • Does not need a separate HTTP server.
 
